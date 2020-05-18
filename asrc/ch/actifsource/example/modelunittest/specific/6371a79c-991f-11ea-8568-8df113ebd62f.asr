@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource format="5.6.0" guid="6371a79c-991f-11ea-8568-8df113ebd62f">
+  <owns predicate="66ba6a00-991f-11ea-8568-8df113ebd62f">
+    <resource statement-guid="6bb967eb-991f-11ea-8568-8df113ebd62f" type="resource" guid="6bb967e8-991f-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="6efc0fd0-991f-11ea-8568-8df113ebd62f" type="resource" guid="6efc0fcd-991f-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="731d30d4-991f-11ea-8568-8df113ebd62f" type="resource" guid="731d30d1-991f-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="739769e8-991f-11ea-8568-8df113ebd62f" type="resource" guid="739769e5-991f-11ea-8568-8df113ebd62f" />
+    <resource statement-guid="741413fc-991f-11ea-8568-8df113ebd62f" type="resource" guid="741413f9-991f-11ea-8568-8df113ebd62f" />
+  </owns>
+  <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6371a79e-991f-11ea-8568-8df113ebd62f" type="resource" guid="454dbde0-991f-11ea-8568-8df113ebd62f" />
+  </predicate>
+  <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+    <object statement-guid="6371a79f-991f-11ea-8568-8df113ebd62f" type="literal">RootInstance</object>
+  </predicate>
+  <predicate guid="66ba6a00-991f-11ea-8568-8df113ebd62f">
+    <object statement-guid="6bb967eb-991f-11ea-8568-8df113ebd62f">
+      <resource guid="6bb967e8-991f-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6bb967ea-991f-11ea-8568-8df113ebd62f" type="resource" guid="4924ddb6-991f-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6c36390c-991f-11ea-8568-8df113ebd62f" type="literal">Child_1</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="6efc0fd0-991f-11ea-8568-8df113ebd62f">
+      <resource guid="6efc0fcd-991f-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6efc0fce-991f-11ea-8568-8df113ebd62f" type="resource" guid="4924ddb6-991f-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="6efc0fcf-991f-11ea-8568-8df113ebd62f" type="literal">Child_2</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="731d30d4-991f-11ea-8568-8df113ebd62f">
+      <resource guid="731d30d1-991f-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="731d30d2-991f-11ea-8568-8df113ebd62f" type="resource" guid="4924ddb6-991f-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="731d30d3-991f-11ea-8568-8df113ebd62f" type="literal">Child_3</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="739769e8-991f-11ea-8568-8df113ebd62f">
+      <resource guid="739769e5-991f-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="739769e6-991f-11ea-8568-8df113ebd62f" type="resource" guid="4924ddb6-991f-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="739769e7-991f-11ea-8568-8df113ebd62f" type="literal">Child_4</object>
+        </predicate>
+      </resource>
+    </object>
+    <object statement-guid="741413fc-991f-11ea-8568-8df113ebd62f">
+      <resource guid="741413f9-991f-11ea-8568-8df113ebd62f">
+        <predicate guid="3169f49a-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="741413fa-991f-11ea-8568-8df113ebd62f" type="resource" guid="4924ddb6-991f-11ea-8568-8df113ebd62f" />
+        </predicate>
+        <predicate guid="33fc8660-f91f-11d9-bb45-5fabdff7c7da">
+          <object statement-guid="741413fb-991f-11ea-8568-8df113ebd62f" type="literal">Child_5</object>
+        </predicate>
+      </resource>
+    </object>
+  </predicate>
+</resource>
+
