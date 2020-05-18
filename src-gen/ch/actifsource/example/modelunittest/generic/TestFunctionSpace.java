@@ -1,8 +1,6 @@
 package ch.actifsource.example.modelunittest.generic;
 
 import ch.actifsource.util.Assert;
-
-import java.util.ArrayList;
 import java.util.List;
 import ch.actifsource.core.dynamic.DynamicResourceUtil;
 import ch.actifsource.core.dynamic.IDynamicResourceExtension;
@@ -10,7 +8,7 @@ import ch.actifsource.core.dynamic.IDynamicResourceExtensionJavaImpl;
 import ch.actifsource.core.selector.typesystem.JavaFunctionUtil;
 
 /* Begin Protected Region [[75aa9c85-9920-11ea-8568-8df113ebd62f,imports]] */
-
+import java.util.ArrayList;
 /* End Protected Region   [[75aa9c85-9920-11ea-8568-8df113ebd62f,imports]] */
 
 public class TestFunctionSpace {
