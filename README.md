@@ -4,6 +4,9 @@ In this project we will show how to unit test a model.
 ## Run the unit test  
 ![Unit Test](images/rununittest.png)
 
+![Unit Test View](images/unittestview.png)
+
+
 ## Test implementation
 
 ```
