@@ -25,6 +25,16 @@ public class ChildTest extends SingleScopeTestCase {
 		super.setUp();
 	}
 
+	@Override
+  protected void tearDown() throws Exception {
+	  super.tearDown();
+	}
+	
+//	@Override
+//  protected boolean resetPlatformAfterTearDown() {
+//    return false; // Increase performance
+//  }
+  
 	/**********************
 	 * Start Test
 	 *********************/
